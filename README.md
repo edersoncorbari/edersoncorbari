@@ -6,3 +6,8 @@ I’m a Computer Scientist. I currently work with Big Data and Machine Learning,
 - 🌱 I'm studying statistics and machine learning, I like to explore quantum computers too.
 - 👯 I like to collaborate on health and political projects.
 - ⚡ Fun fact: I like playing sports, and I don't like video games.
+
+More information about me and how to contact me:
+
+ - :link: [https://edersoncorbari.github.io/about](https://edersoncorbari.github.io/about)
+ - :link: [https://www.linkedin.com/in/ecorbari](https://www.linkedin.com/in/ecorbari) 
