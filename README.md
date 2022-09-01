@@ -13,5 +13,5 @@ More information about me and how to contact me:
  - :link: [https://www.linkedin.com/in/ecorbari](https://www.linkedin.com/in/ecorbari)
  
  <a href="https://github.com/edersoncorbari">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersoncorbari&count_private=true&show_icons=true&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersoncorbari&count_private=true&show_icons=true&theme=gotham&layout=compact" />
 </a>
