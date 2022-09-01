@@ -10,4 +10,8 @@ I’m a Computer Scientist. I currently work with Big Data and Machine Learning,
 More information about me and how to contact me:
 
  - :link: [https://edersoncorbari.github.io/about](https://edersoncorbari.github.io/about)
- - :link: [https://www.linkedin.com/in/ecorbari](https://www.linkedin.com/in/ecorbari) 
+ - :link: [https://www.linkedin.com/in/ecorbari](https://www.linkedin.com/in/ecorbari)
+ 
+ <a href="https://github.com/edersoncorbari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersoncorbari&count_private=true&show_icons=true&theme=dark&layout=compact" />
+</a>
