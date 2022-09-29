@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edersoncorbari">
+
 ### Hi there 👋
 
 I’m a Computer Scientist. I currently work with Big Data and Machine Learning, I have already worked with software analysis, requirements survey, lecture and training, using various tools and programming languages such as C/C++, Python, Scala, Bash, SmallTalk, MatLab, Java, PHP among others.
