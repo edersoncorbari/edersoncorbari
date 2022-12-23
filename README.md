@@ -32,5 +32,7 @@ More information about me and how to contact me:
     </a>
   </div>
   <br>
+  <!--
   <img src="https://activity-graph.herokuapp.com/graph?username=edersoncorbari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  -->
 </p>
