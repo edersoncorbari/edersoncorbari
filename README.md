@@ -7,6 +7,9 @@ I’m a Computer Scientist. I currently work with Big Data and Machine Learning,
 - 🔭 Currently I work in the data area.
 - 🌱 I'm studying statistics and machine learning, I like to explore quantum computers too.
 - 🧠 I like Neuroscience, cognitive computing, health and political projects.
+- :zap: Fun Facts. I'm an aircraft pilot :airplane: and a polo player :horse_racing:.
+
+I'm an airline pilot, a polo player , and I like theater.
 
 More information about me and how to contact me:
 
