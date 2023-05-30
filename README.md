@@ -6,7 +6,7 @@ I’m a Computer Scientist. I currently work with Big Data and Machine Learning,
 
 - 🔭 Currently I work in the data area.
 - 🌱 I'm studying statistics and machine learning, I like to explore quantum computers too.
-- 👯 I like to collaborate on health and political projects.
+- 🧠 I like Neuroscience, cognitive computing, health and political projects.
 
 More information about me and how to contact me:
 
