@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I’m a Computer Scientist. I currently work with Big Data and Machine Learning, I have already worked with software analysis, requirements survey, lecture and training, using various tools and programming languages.
+I'm a computer scientist and founder of [NeuroQuest AI](https://github.com/NeuroQuestAi). I currently work with Big Data and Machine Learning, I have already worked with software analysis, requirements survey, lecture and training, using various tools and programming languages.
 
 - 🔭 Currently I work in the data area.
 - 🌱 I'm studying statistics and machine learning, I like to explore quantum computers too.
@@ -12,6 +12,14 @@ More information about me and how to contact me:
 
  - :link: [https://edersoncorbari.github.io/about](https://edersoncorbari.github.io/about)
  - :link: [https://linkedin.com/in/ecorbari](https://linkedin.com/in/ecorbari)
+
+### Projects 🚀
+
+Some public projects that I try to contribute to:
+
+- :link: [https://github.com/NeuroQuestAi/five-factor-e](https://github.com/NeuroQuestAi/five-factor-e)
+- :link: [https://github.com/yashsmehta/personality-prediction](https://github.com/yashsmehta/personality-prediction)
+- :link: [https://github.com/freesurfer/freesurfer](https://github.com/freesurfer/freesurfer)
 
 ### ⚡ Stats ⚡
 
