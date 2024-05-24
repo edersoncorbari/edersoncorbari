@@ -13,7 +13,7 @@ More information about me and how to contact me:
 - [![Website](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://edersoncorbari.github.io/about)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ecorbari)
 
-### Spotify Playing 🎧
+### Spotify Vibes 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ederbsd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ederbsd&redirect=true)
 
