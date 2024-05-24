@@ -10,8 +10,12 @@ I'm a computer scientist 🧑‍💻 I currently work with Big Data and Machine 
 
 More information about me and how to contact me:
 
- - :link: [https://edersoncorbari.github.io/about](https://edersoncorbari.github.io/about)
- - :link: [https://linkedin.com/in/ecorbari](https://linkedin.com/in/ecorbari)
+- [![Website](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://edersoncorbari.github.io/about)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ecorbari)
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ederbsd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ederbsd&redirect=true)
 
 ### Projects 🚀
 
