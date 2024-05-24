@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a computer scientist and founder of [NeuroQuest AI](https://github.com/NeuroQuestAi). I currently work with Big Data and Machine Learning, I have already worked with software analysis, requirements survey, lecture and training, using various tools and programming languages.
+I'm a computer scientist 🧑‍💻 I currently work with Big Data and Machine Learning, I have already worked with software analysis, requirements survey, lecture and training, using various tools and programming languages.
 
 - 🔭 Currently I work in the data area.
 - 🌱 I'm studying statistics and machine learning, I like to explore quantum computers too.
