@@ -13,6 +13,14 @@ More information about me and how to contact me:
 - [![Website](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://edersoncorbari.github.io/about)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ecorbari)
 
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,ai,cpp,cmake,docker,git,github,js,linux,bsd,postgres,py,rust,vim" alt="Skills and tools"/>
+  </a>
+</p>
+
 ### Spotify Vibes 🎧
 
 <!--
