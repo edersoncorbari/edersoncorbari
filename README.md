@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 
-I’m a computer scientist 🧑‍💻 currently working with **Big Data** 📊 and **Artificial Intelligence** 🤖, developing solutions based on machine learning 🤖📈, natural language processing 🗣️, and intelligent automation ⚙️. I have experience in software analysis 🛠️, requirements gathering 📋, as well as delivering lectures 🎤 and training 👩‍🏫, using various AI-focused tools and programming languages 💻.
+I’m a computer scientist 🧑‍💻 currently working with **Big Data** 📊 and **Artificial Intelligence** 🤖, developing solutions based on machine learning, natural language processing 🗣️, and intelligent automation ⚙️. I have experience in software analysis, requirements gathering, as well as delivering lectures 🎤 and training, using various AI-focused tools and programming languages 💻.
 
 - 🔭 Currently I work in the data area.
 - 🌱 I'm studying statistics and machine learning, I like to explore quantum computers too.
 - 🧠 I like neuroscience, cognitive computing, personality psychology, future skills, health projects, and political initiatives.
 
-I founded [NeuroQuest AI](https://github.com/NeuroQuestAi), a startup focused on cognitive solutions and AI applied to psychology 🧠🤖. I dedicate my free time to developing innovative AI solutions tailored to this field 🚀💡 — many of which we release as open source 💻🛠️ to contribute to the tech and research community 🌍.
+I founded [NeuroQuest AI](https://github.com/NeuroQuestAi), a startup focused on cognitive solutions and AI applied to psychology 🧠🤖. I dedicate my free time to developing innovative AI solutions tailored to this field 🚀💡 — many of which we release as open source to contribute to the tech and research community 🌍.
 
 More information about me:
 
