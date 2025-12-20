@@ -13,6 +13,7 @@ I founded [NeuroQuest AI](https://github.com/NeuroQuestAi), a startup focused on
 More information about me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ecorbari)
+[![Website](https://img.shields.io/badge/E-Ederson%20Corbari-111111?style=for-the-badge)](https://www.edersoncorbari.com/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://edersoncorbari.github.io/about)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ecorbari.medium.com/)
 [![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/ecorbari) 
