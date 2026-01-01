@@ -2,11 +2,13 @@
 
 ### Hi there 👋
 
-I’m a computer scientist 🧑‍💻 currently working with **Big Data** 📊 and **Artificial Intelligence** 🤖, developing solutions based on machine learning, natural language processing 🗣️, and intelligent automation ⚙️. I have experience in software analysis, requirements gathering, as well as delivering lectures 🎤 and training, using various AI-focused tools and programming languages 💻.
+I’m a Computer Scientist 🧑‍💻 working in the intersection of Data Science, Big Data, and Artificial Intelligence, focused on transforming data into business value 📈. I design and deliver data-driven solutions using machine learning, natural language processing, and intelligent automation, supporting decision-making, efficiency gains, and scalable digital strategies.
 
-- 🔭 Currently I work in the data area.
-- 🌱 I'm studying statistics and machine learning, I like to explore quantum computers too.
-- 🧠 I like neuroscience, cognitive computing, personality psychology, future skills, health projects, and political initiatives.
+I have experience across the full data lifecycle — from data analysis and requirements elicitation to model development, deployment, and knowledge transfer, including executive briefings, lectures, and professional training 🎤. I work with diverse programming languages and AI-centric platforms to bridge technical depth with business outcomes.
+
+- 🔭 Currently working in Data & Analytics, supporting strategic and operational decisions.
+- 🌱 Deepening my knowledge in statistics, machine learning, and exploring quantum computing from a data and optimization perspective.
+- 🧠 Interests include cognitive computing, neuroscience applied to decision-making, personality psychology, future workforce skills, health analytics, and data-driven public policy initiatives.
 
 I founded [NeuroQuest AI](https://github.com/NeuroQuestAi), a startup focused on cognitive solutions and AI applied to psychology 🧠🤖. I dedicate my free time to developing innovative AI solutions tailored to this field 🚀💡 — many of which we release as open source to contribute to the tech and research community 🌍.
 
@@ -24,7 +26,7 @@ More information about me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,ai,cpp,cmake,docker,git,github,js,linux,bsd,postgres,py,rust,vim" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=gcp,ai,cpp,cmake,docker,git,github,linux,bsd,postgres,py,scala,rust,vim,elasticsearch,cassandra,qt,matlab,postman,bash" alt="Skills and tools"/>
   </a>
 </p>
 
