@@ -8,9 +8,7 @@ I have experience across the full data lifecycle — from data analysis and requ
 
 - 🔭 Currently working in Data & Analytics, supporting strategic and operational decisions.
 - 🌱 Deepening my knowledge in statistics, machine learning, and exploring quantum computing from a data and optimization perspective.
-- 🧠 Interests include cognitive computing, neuroscience applied to decision-making, personality psychology, future workforce skills, health analytics, and data-driven public policy initiatives.
-
-I founded [NeuroQuest AI](https://github.com/NeuroQuestAi), a startup focused on cognitive solutions and AI applied to psychology 🧠🤖. I dedicate my free time to developing innovative AI solutions tailored to this field 🚀💡 — many of which we release as open source to contribute to the tech and research community 🌍.
+- 🧠 Interests include cognitive computing, neuroscience applied to decision-making, personality psychology, future workforce skills, health analytics, data-driven public policy initiatives, as well as the financial domain—especially fintech, credit, and risk analysis.
 
 More information about me:
 
